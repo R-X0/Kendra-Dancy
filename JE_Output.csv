@@ -1,0 +1,28 @@
+Ref No,Account,Payee,Memo,Payment Date,Payment Method,Expense Account,Expense Description,Expense Line Amount
+ENTER_REF_NO_HERE,CIBC - Main Deposit,Just Works,Payroll,ENTER_DATE_HERE,,Development Salaries,Development Salaries,58211.57
+ENTER_REF_NO_HERE,CIBC - Main Deposit,Just Works,Payroll,ENTER_DATE_HERE,,Development Payroll Taxes,Development Payroll Taxes,7470.46
+ENTER_REF_NO_HERE,CIBC - Main Deposit,Just Works,Payroll,ENTER_DATE_HERE,,Development Benefits,Development Benefits,151.36
+ENTER_REF_NO_HERE,CIBC - Main Deposit,Just Works,Payroll,ENTER_DATE_HERE,,Marketing Salaries,Marketing Salaries,3665.63
+ENTER_REF_NO_HERE,CIBC - Main Deposit,Just Works,Payroll,ENTER_DATE_HERE,,Marketing Payroll Taxes,Marketing Payroll Taxes,372.06
+ENTER_REF_NO_HERE,CIBC - Main Deposit,Just Works,Payroll,ENTER_DATE_HERE,,Marketing Benefits,Marketing Benefits,6.57
+ENTER_REF_NO_HERE,CIBC - Main Deposit,Just Works,Payroll,ENTER_DATE_HERE,,Implementation COGS Salaries,Implementation COGS Salaries,14959.63
+ENTER_REF_NO_HERE,CIBC - Main Deposit,Just Works,Payroll,ENTER_DATE_HERE,,Implementation COGS Payroll Taxes,Implementation COGS Payroll Taxes,2114.31
+ENTER_REF_NO_HERE,CIBC - Main Deposit,Just Works,Payroll,ENTER_DATE_HERE,,Implementation COGS Benefits,Implementation COGS Benefits,31.55
+ENTER_REF_NO_HERE,CIBC - Main Deposit,Just Works,Payroll,ENTER_DATE_HERE,,G&A Salaries,G&A Salaries,19791.67
+ENTER_REF_NO_HERE,CIBC - Main Deposit,Just Works,Payroll,ENTER_DATE_HERE,,G&A Payroll Taxes,G&A Payroll Taxes,3103.01
+ENTER_REF_NO_HERE,CIBC - Main Deposit,Just Works,Payroll,ENTER_DATE_HERE,,G&A Benefits,G&A Benefits,59.84
+ENTER_REF_NO_HERE,CIBC - Main Deposit,Just Works,Payroll,ENTER_DATE_HERE,,Implementation COGS Engineering Salaries,Implementation COGS Engineering Salaries,10900.72
+ENTER_REF_NO_HERE,CIBC - Main Deposit,Just Works,Payroll,ENTER_DATE_HERE,,Support COGS Engineering Salaries,Support COGS Engineering Salaries,5290.89
+ENTER_REF_NO_HERE,CIBC - Main Deposit,Just Works,Payroll,ENTER_DATE_HERE,,Implementation COGS Engineering Payroll Taxes,Implementation COGS Engineering Payroll Taxes,1352.34
+ENTER_REF_NO_HERE,CIBC - Main Deposit,Just Works,Payroll,ENTER_DATE_HERE,,Support COGS Engineering Payroll Taxes,Support COGS Engineering Payroll Taxes,700.33
+ENTER_REF_NO_HERE,CIBC - Main Deposit,Just Works,Payroll,ENTER_DATE_HERE,,Implementation COGS Engineering Benefits,Implementation COGS Engineering Benefits,42.98
+ENTER_REF_NO_HERE,CIBC - Main Deposit,Just Works,Payroll,ENTER_DATE_HERE,,Support COGS Engineering Benefits,Support COGS Engineering Benefits,20.59
+ENTER_REF_NO_HERE,CIBC - Main Deposit,Just Works,Payroll,ENTER_DATE_HERE,,Success COGS Salaries,Success COGS Salaries,5625.0
+ENTER_REF_NO_HERE,CIBC - Main Deposit,Just Works,Payroll,ENTER_DATE_HERE,,Success COGS Payroll Taxes,Success COGS Payroll Taxes,893.42
+ENTER_REF_NO_HERE,CIBC - Main Deposit,Just Works,Payroll,ENTER_DATE_HERE,,Success COGS Benefits,Success COGS Benefits,10.19
+ENTER_REF_NO_HERE,CIBC - Main Deposit,Just Works,Payroll,ENTER_DATE_HERE,,Product Salaries,Product Salaries,12752.25
+ENTER_REF_NO_HERE,CIBC - Main Deposit,Just Works,Payroll,ENTER_DATE_HERE,,Product Payroll Taxes,Product Payroll Taxes,1929.08
+ENTER_REF_NO_HERE,CIBC - Main Deposit,Just Works,Payroll,ENTER_DATE_HERE,,Product Benefits,Product Benefits,34.46
+ENTER_REF_NO_HERE,CIBC - Main Deposit,Just Works,Payroll,ENTER_DATE_HERE,,Analytics Salaries,Analytics Salaries,17916.66
+ENTER_REF_NO_HERE,CIBC - Main Deposit,Just Works,Payroll,ENTER_DATE_HERE,,Analytics Payroll Taxes,Analytics Payroll Taxes,2080.43
+ENTER_REF_NO_HERE,CIBC - Main Deposit,Just Works,Payroll,ENTER_DATE_HERE,,Analytics Benefits,Analytics Benefits,47.89

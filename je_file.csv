@@ -1,0 +1,28 @@
+Ref No,Account,Payee,Memo,Payment Date,Payment Method,Expense Account,Expense Description,Expense Line Amount
+700061,CIBC - Main Deposit,Rippling,Payroll,12/15/23,,Development Salaries,Development Salaries,63279.17
+700061,CIBC - Main Deposit,Rippling,Payroll,12/15/23,,Development Benefits,Development Benefits,5367.960000000001
+700061,CIBC - Main Deposit,Rippling,Payroll,12/15/23,,Development Payroll Taxes,Development Payroll Taxes,3341.7500000000005
+700061,CIBC - Main Deposit,Rippling,Payroll,12/15/23,,Product Salaries,Product Salaries,8541.67
+700061,CIBC - Main Deposit,Rippling,Payroll,12/15/23,,Product Benefits,Product Benefits,1044.73
+700061,CIBC - Main Deposit,Rippling,Payroll,12/15/23,,Product Payroll Taxes,Product Payroll Taxes,658.03
+700061,CIBC - Main Deposit,Rippling,Payroll,12/15/23,,Analytics Salaries,Analytics Salaries,20625.0
+700061,CIBC - Main Deposit,Rippling,Payroll,12/15/23,,Analytics Benefits,Analytics Benefits,1716.2199999999998
+700061,CIBC - Main Deposit,Rippling,Payroll,12/15/23,,Analytics Payroll Taxes,Analytics Payroll Taxes,1572.17
+700061,CIBC - Main Deposit,Rippling,Payroll,12/15/23,,G&A Salaries,G&A Salaries,10062.520000000048
+700061,CIBC - Main Deposit,Rippling,Payroll,12/15/23,,G&A Benefits,G&A Benefits,1632.17
+700061,CIBC - Main Deposit,Rippling,Payroll,12/15/23,,G&A Payroll Taxes,G&A Payroll Taxes,735.8299999999999
+700061,CIBC - Main Deposit,Rippling,Payroll,12/15/23,,Marketing Salaries,Marketing Salaries,5625.0
+700061,CIBC - Main Deposit,Rippling,Payroll,12/15/23,,Marketing Benefits,Marketing Benefits,248.69
+700061,CIBC - Main Deposit,Rippling,Payroll,12/15/23,,Marketing Payroll Taxes,Marketing Payroll Taxes,450.06
+700061,CIBC - Main Deposit,Rippling,Payroll,12/15/23,,Support COGS Salaries,Support COGS Salaries,6375.0
+700061,CIBC - Main Deposit,Rippling,Payroll,12/15/23,,Support COGS Benefits,Support COGS Benefits,454.69
+700061,CIBC - Main Deposit,Rippling,Payroll,12/15/23,,Support COGS Payroll Taxes,Support COGS Payroll Taxes,499.57
+700061,CIBC - Main Deposit,Rippling,Payroll,12/15/23,,Implementation COGS Salaries,Implementation COGS Salaries,14416.66
+700061,CIBC - Main Deposit,Rippling,Payroll,12/15/23,,Implementation COGS Benefits,Implementation COGS Benefits,1463.24
+700061,CIBC - Main Deposit,Rippling,Payroll,12/15/23,,Implementation COGS Payroll Taxes,Implementation COGS Payroll Taxes,1087.8799999999999
+700061,CIBC - Main Deposit,Rippling,Payroll,12/15/23,,Implementation COGS Engineering Salaries,Implementation COGS Engineering Salaries,6195.3099999999995
+700061,CIBC - Main Deposit,Rippling,Payroll,12/15/23,,Implementation COGS Engineering Benefits,Implementation COGS Engineering Benefits,715.6800000000001
+700061,CIBC - Main Deposit,Rippling,Payroll,12/15/23,,Implementation COGS Engineering Payroll Taxes,Implementation COGS Engineering Payroll Taxes,477.84
+700061,CIBC - Main Deposit,Rippling,Payroll,12/15/23,,Support COGS Engineering Salaries,Support COGS Engineering Salaries,3236.98
+700061,CIBC - Main Deposit,Rippling,Payroll,12/15/23,,Support COGS Engineering Benefits,Support COGS Engineering Benefits,333.37
+700061,CIBC - Main Deposit,Rippling,Payroll,12/15/23,,Support COGS Engineering Payroll Taxes,Support COGS Engineering Payroll Taxes,205.06
